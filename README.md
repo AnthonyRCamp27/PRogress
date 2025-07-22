@@ -1,6 +1,6 @@
 # 🏃‍♂️ PRogress — Track & Field Performance Dashboard
 
-**PRogress** is an interactive Streamlit app for tracking and visualizing track & field performance in the **100m**, **200m**, and **Long Jump**.  
+**PRogress** is an interactive Streamlit app for tracking and visualizing track & field performance in the **100m**, **200m**, and **Long Jump**. More events will be added in the future but this is just the start.  
 Athletes or coaches can log meet results, see progression over time, compare to personal goals, and identify trends in performance.
 
 ---
@@ -15,23 +15,5 @@ Athletes or coaches can log meet results, see progression over time, compare to 
 
 ---
 
-## 📷 Screenshots
-*(optional — add a screenshot here once deployed)*
-
----
-
 ## 🌐 Live App
-Once deployed on [Streamlit Cloud](https://share.streamlit.io), you can access the live app here:
-[https://your-app-link.streamlit.app](https://your-app-link.streamlit.app)
-
-*(replace the above link with your actual deployment URL)*
-
----
-
-## 📦 Installation
-If you want to run the app locally:
-
-### Clone the repo:
-```bash
-git clone https://github.com/yourusername/performance-dashboard.git
-cd performance-dashboard
+https://antcampbellprogress.streamlit.app/
