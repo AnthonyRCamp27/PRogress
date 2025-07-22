@@ -3,8 +3,6 @@
 **PRogress** is an interactive Streamlit app for tracking and visualizing track & field performance in the **100m**, **200m**, and **Long Jump**.  
 Athletes or coaches can log meet results, see progression over time, compare to personal goals, and identify trends in performance.
 
-![PRogress Logo](logo.png)  <!-- remove or update if no logo file -->
-
 ---
 
 ## 🚀 Features
