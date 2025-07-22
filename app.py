@@ -85,13 +85,13 @@ with st.form("input_form"):
 
         wind = col3.text_input(
             f"Wind #{i+1}",
-            placeholder="optional",
+            placeholder="wind optional",
             key=f"wind_{i}"
         )
 
         notes = col4.text_input(
             f"Notes #{i+1}",
-            placeholder="optional",
+            placeholder="notes optional",
             key=f"notes_{i}"
         )
 
