@@ -6,6 +6,30 @@ from sklearn.linear_model import LinearRegression
 import plotly.express as px
 
 st.set_page_config(page_title="PRogress", layout="wide")
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #f5f7fa;
+        color: #333333;
+    }
+
+    html, body, [class*="css"] {
+        font-family: Arial, sans-serif;
+    }
+
+    .css-10trblm {
+        color: #2c3e50;
+    }
+
+    .css-1d391kg {
+        background-color: #ecf0f1;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 #App title
 st.title("PRogress")
 st.sidebar.header("Event Selection")
